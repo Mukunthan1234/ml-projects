@@ -3,12 +3,12 @@ Each project is implemented in Python using popular libraries such as scikit-lea
 
 
 Algorithms covered
-    K-Nearest Neighbors (KNN)
-    Decision Tree
-    Logistic Regression
-    Support Vector Machine (SVM)
-    Naive Bayes
-    Random Forest
-    Multiple Linear Regression
-    K-Means Clustering
-    Principal Component Analysis (PCA)
+    K-Nearest Neighbors (KNN),
+    Decision Tree,
+    Logistic Regression,
+    Support Vector Machine (SVM),
+    Naive Bayes,
+    Random Forest,
+    Multiple Linear Regression,
+    K-Means Clustering,
+    Principal Component Analysis (PCA),
